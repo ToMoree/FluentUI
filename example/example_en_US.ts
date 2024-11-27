@@ -1421,7 +1421,12 @@ My only desire is to be permitted to drive out the traitors and restore the Han.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="qml/page/T_Icons.qml" line="51"/>
+        <location filename="qml/page/T_Icons.qml" line="28"/>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="qml/page/T_Icons.qml" line="61"/>
         <source>You Copied </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2185,8 +2190,13 @@ Some contents...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="qml/page/T_Text.qml" line="18"/>
+        <location filename="qml/page/T_Text.qml" line="19"/>
         <source>This is a text that can be copied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="qml/page/T_Text.qml" line="29"/>
+        <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

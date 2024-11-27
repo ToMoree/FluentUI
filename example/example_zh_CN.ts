@@ -1539,11 +1539,16 @@ My only desire is to be permitted to drive out the traitors and restore the Han.
         <translation type="unfinished">请输入关键字</translation>
     </message>
     <message>
+        <location filename="qml/page/T_Icons.qml" line="28"/>
+        <source>Disabled</source>
+        <translation type="unfinished">禁用</translation>
+    </message>
+    <message>
         <source>Search</source>
         <translation type="obsolete">搜索</translation>
     </message>
     <message>
-        <location filename="qml/page/T_Icons.qml" line="51"/>
+        <location filename="qml/page/T_Icons.qml" line="61"/>
         <source>You Copied </source>
         <translation type="unfinished">您复制</translation>
     </message>
@@ -2367,9 +2372,14 @@ Some contents...</source>
         <translation type="unfinished">文本</translation>
     </message>
     <message>
-        <location filename="qml/page/T_Text.qml" line="18"/>
+        <location filename="qml/page/T_Text.qml" line="19"/>
         <source>This is a text that can be copied</source>
         <translation type="unfinished">这是一个可以复制的文本</translation>
+    </message>
+    <message>
+        <location filename="qml/page/T_Text.qml" line="29"/>
+        <source>Disabled</source>
+        <translation type="unfinished">禁用</translation>
     </message>
 </context>
 <context>
